@@ -1,7 +1,13 @@
+## Prized Projects created by Calla Rudolph
+
+This is a summary of my favorite projects made during my time at Epicodus. Click on the repo name to view the project in GitHub, or click on the deployed link to see the app in action.
+
 ## Top 6
-* [cat-fanciers](https://github.com/CallaRudolph/cat-fanciers) - Angular 2 app to maintain the Cat Fanciers&copy; group, complete with members and messages saved into Firebase
-  * Deployed site [here](https://cat-fanciers.firebaseapp.com/)
-* [angular-zoo](https://github.com/CallaRudolph/angular-zoo)
+* [Cat Fanciers&copy;](https://github.com/CallaRudolph/cat-fanciers)
+  * _AngularJS 2.0 app to maintain the Cat Fanciers&copy; group, complete with members and messages saved into Firebase._
+  * [_Deployed site here_](https://cat-fanciers.firebaseapp.com/)
+* [Zoo Zhu](https://github.com/CallaRudolph/angular-zoo)
+  * _AngularJS 2.0 app to track database of zoo animals._
 * [js-taproom](https://github.com/CallaRudolph/js-taproom)
 * [js-doctor](https://github.com/CallaRudolph/js-doctor)
 * [php-word-frequency](https://github.com/CallaRudolph/php-word-frequency)
