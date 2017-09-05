@@ -14,7 +14,8 @@ This is a summary of my favorite projects made during my time at Epicodus. Click
   * [_Deployed site here_](https://rudlow-brewing.firebaseapp.com)
 * [Doctor Lookup](https://github.com/CallaRudolph/js-doctor)
   * _JS app utilizing API call to display list of doctors in the Portland area._
-* [php-word-frequency](https://github.com/CallaRudolph/php-word-frequency)
+* [Word Frequency](https://github.com/CallaRudolph/php-word-frequency)
+  * _PHP Behavior-Driven app utilizing Silex, Twig, and PHPUnit to count number of times a word appears in a string._
 * [pizza](https://github.com/CallaRudolph/pizza)
 
 ## JavaScript
