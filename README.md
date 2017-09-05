@@ -12,7 +12,8 @@ This is a summary of my favorite projects made during my time at Epicodus. Click
 * [Rudlow Brewing](https://github.com/CallaRudolph/js-taproom) (pair programming project)
   * _AngularJS 2.0 app created for a taproom to track keg sales, including revenue, quantity, and happy hour pricing._
   * [_Deployed site here_](https://rudlow-brewing.firebaseapp.com)
-* [js-doctor](https://github.com/CallaRudolph/js-doctor)
+* [Doctor Lookup](https://github.com/CallaRudolph/js-doctor)
+  * _JS app utilizing API call to display list of doctors in the Portland area._
 * [php-word-frequency](https://github.com/CallaRudolph/php-word-frequency)
 * [pizza](https://github.com/CallaRudolph/pizza)
 
