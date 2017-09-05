@@ -1,6 +1,6 @@
 ## Prized Projects created by Calla Rudolph
 
-This is a summary of my favorite projects made during my time at Epicodus. Click on the repo name to view the project in GitHub, or click on the deployed link to see the app in action.
+This is a summary of my favorite projects made during my time at Epicodus. Click on the repo name to view the project in GitHub, or click on the deployed link to see the app in action! _All apps were created independently unless otherwise specified._
 
 ## Top 6
 * [Cat Fanciers&copy;](https://github.com/CallaRudolph/cat-fanciers)
@@ -9,7 +9,9 @@ This is a summary of my favorite projects made during my time at Epicodus. Click
 * [Zoo Zhu](https://github.com/CallaRudolph/angular-zoo)
   * _AngularJS 2.0 app to track database of zoo animals._
   * [_Deployed site here_](https://zoo-zhu.firebaseapp.com/)
-* [js-taproom](https://github.com/CallaRudolph/js-taproom)
+* [Rudlow Brewing](https://github.com/CallaRudolph/js-taproom) (pair programming project)
+  * _AngularJS 2.0 app created for a taproom to track keg sales, including revenue, quantity, and happy hour pricing._
+  * [_Deployed site here_](https://rudlow-brewing.firebaseapp.com)
 * [js-doctor](https://github.com/CallaRudolph/js-doctor)
 * [php-word-frequency](https://github.com/CallaRudolph/php-word-frequency)
 * [pizza](https://github.com/CallaRudolph/pizza)
