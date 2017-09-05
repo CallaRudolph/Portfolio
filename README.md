@@ -8,6 +8,7 @@ This is a summary of my favorite projects made during my time at Epicodus. Click
   * [_Deployed site here_](https://cat-fanciers.firebaseapp.com/)
 * [Zoo Zhu](https://github.com/CallaRudolph/angular-zoo)
   * _AngularJS 2.0 app to track database of zoo animals._
+  * [_Deployed site here_](https://zoo-zhu.firebaseapp.com/)
 * [js-taproom](https://github.com/CallaRudolph/js-taproom)
 * [js-doctor](https://github.com/CallaRudolph/js-doctor)
 * [php-word-frequency](https://github.com/CallaRudolph/php-word-frequency)
