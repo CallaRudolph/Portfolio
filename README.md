@@ -32,6 +32,8 @@ _All apps were created during pair programming adventures unless otherwise speci
 
 ## JavaScript
 
+* [SAPP](https://github.com/CallaRudolph/SAPP)
+  * _Group project utilizing four API calls and Firebase to help user prep for social events with conversation topics._
 * [Susej-List](https://github.com/CallaRudolph/Susej-List)
   * _Craigslist clone using AngularJS 2.0 to list personals and for sale items in Firebase._
   * [_Deployed site here_](https://susej-list.firebaseapp.com/)
