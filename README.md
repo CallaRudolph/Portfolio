@@ -9,6 +9,8 @@ Technologies used include: PHP, ReactJS, JavaScript, Angular 2.0, Ember.js, HTML
 _All apps were created independently unless otherwise specified._
 
 ## Top 6 Independent Projects
+* [Life Help](https://github.com/CallaRudolph/life-help)
+  * _ReactJS app to add life chores and mark completed each time the chore is done._
 * [Cat Fanciers&copy;](https://github.com/CallaRudolph/Cat-Fanciers)
   * _AngularJS 2.0 app to maintain the Cat Fanciers&copy; group, complete with members and messages saved into Firebase._
   * [_Deployed site here_](https://cat-fanciers.firebaseapp.com/)
@@ -22,15 +24,17 @@ _All apps were created independently unless otherwise specified._
   * _JS app utilizing API call to display list of doctors in the Portland area._
 * [Word Frequency](https://github.com/CallaRudolph/Word-Frequency)
   * _PHP Behavior-Driven app utilizing Silex, Twig, and PHPUnit to count number of times a word appears in a string._
-* [Pizza Website](https://github.com/CallaRudolph/Pizza-Website)
-  * _Vanilla JavaScript project using constructors and prototypes for phony Pizza Company._
-  * [_gh-pages site here_](https://callarudolph.github.io/Pizza-Website/)
 
   -----
 
 ## Additional Projects
 
 _All apps were created during pair programming adventures unless otherwise specified._
+
+## ReactJS
+
+* [Tamagotchi](https://github.com/CallaRudolph/react-tamagotchi)
+  * _Virtual friend for user to keep alive, using React and Moment.js to increase life stats._
 
 ## JavaScript
 
@@ -60,6 +64,9 @@ _All apps were created during pair programming adventures unless otherwise speci
 * [Samaritan](https://github.com/CallaRudolph/samaritan) _(group project)_
   * _Object-Oriented JavaScript project to track good deeds through a survey and celebrity match, complete with a To Do List._
   * Check your results [here!](https://callarudolph.github.io/samaritan/)
+* [Pizza Website](https://github.com/CallaRudolph/Pizza-Website)
+  * _Vanilla JavaScript project using constructors and prototypes for phony Pizza Company._
+  * [Order Pizza Here!](https://callarudolph.github.io/Pizza-Website/)
 * [Pig Dice](https://github.com/CallaRudolph/pig-dice)
   * _Object-oriented JS game with prototypes and constructors_
   * Play it [here!](https://callarudolph.github.io/pig-dice/)
