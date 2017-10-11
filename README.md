@@ -9,6 +9,8 @@ Technologies used include: PHP, ReactJS, JavaScript, Angular 2.0, Ember.js, HTML
 _All apps were created independently unless otherwise specified._
 
 ## Top 6 Independent Projects
+* [Pick Me Up](https://github.com/CallaRudolph/pick-me-up)
+  * _ReactJS Capstone project with five API calls to improve your day. Uses Redux, Middleware, React-Router, and persistent data._
 * [Life Help](https://github.com/CallaRudolph/life-help)
   * _ReactJS app to add life chores and mark completed each time the chore is done._
 * [Cat Fanciers&copy;](https://github.com/CallaRudolph/Cat-Fanciers)
@@ -20,8 +22,6 @@ _All apps were created independently unless otherwise specified._
 * [Rudlow Brewing](https://github.com/CallaRudolph/Rudlow-Brewing) (pair programming project)
   * _AngularJS 2.0 app created for a taproom to track keg sales, including revenue, quantity, and happy hour pricing._
   * [_Deployed site here_](https://rudlow-brewing.firebaseapp.com)
-* [Doctor Lookup](https://github.com/CallaRudolph/Doctor-Lookup)
-  * _JS app utilizing API call to display list of doctors in the Portland area._
 * [Word Frequency](https://github.com/CallaRudolph/Word-Frequency)
   * _PHP Behavior-Driven app utilizing Silex, Twig, and PHPUnit to count number of times a word appears in a string._
 
@@ -45,6 +45,8 @@ _All apps were created during pair programming adventures unless otherwise speci
   * [_Deployed site here_](https://susej-list.firebaseapp.com/)
 * [Ask Me, Ember](https://github.com/CallaRudolph/ask-me) _(Independent Project)_
   * _Ember.js forum to ask and answer tech questions (Quora clone) with Firebase._
+* [Doctor Lookup](https://github.com/CallaRudolph/Doctor-Lookup) _(Independent Project)_
+  * _JS app utilizing API call to display list of doctors in the Portland area._
 
 ## PHP
 
